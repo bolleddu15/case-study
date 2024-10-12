@@ -1,4 +1,4 @@
-# kode-Labs-case-study
+# case-study
 
 ## Project Overview
 This  aims to create a dashboard that analyzes building occupancy trends over time. It uses data from multiple buildings and spaces to help identify trends, compare occupancy rates, and detect unusual patterns.
